@@ -108,4 +108,6 @@ public class Usuario {
 				+ ", direccion=" + direccion + ", rol=" + rol + ", password=" + password + "]";
 	}
 
+	
+	
 }
